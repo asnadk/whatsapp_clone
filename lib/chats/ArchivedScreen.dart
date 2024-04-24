@@ -47,29 +47,6 @@ class ArchivedScreen extends StatelessWidget {
               ),
             ),
             Divider(),
-            // ListView.builder(
-            //   shrinkWrap: true,
-            //   physics: const NeverScrollableScrollPhysics(),
-            //   itemBuilder: (context, index) {
-            //     return ListTile(
-            //       onTap: () {},
-            //       leading: const CircleAvatar(
-            //         radius: 30,
-            //       ),
-            //       title: Text(
-            //         archivedChats[index], 
-            //         style: const TextStyle(color: Colors.white),
-            //       ),
-            //       subtitle: const Text('data', style: TextStyle(color: Colors.grey)),
-            //       trailing: const Text('17:57', style: TextStyle(color: Colors.grey)),
-            //       minVerticalPadding: 25,
-            //     );
-            //   },
-            //   itemCount: archivedChats.length, 
-            // ),
-            // const Divider(
-            //   color: Colors.teal,
-            // ),
             Row(
               mainAxisAlignment: MainAxisAlignment.center,
               children: [

@@ -23,7 +23,7 @@ List<Map<String, dynamic>> whatsapp = [
 
   },
   {
-    'name': "Srya",
+    'name': "Surya",
     "recent": "Remember to pick up milk",
     "Dp": "https://th.bing.com/th/id/OIP.jnFj6yB3bi3C-EKuuv8_rwHaHX?rs=1&pid=ImgDetMain",
     "message": [],

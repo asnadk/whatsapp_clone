@@ -42,7 +42,6 @@ class Status_view extends StatelessWidget {
               Container(
                 height: 600,
                 width: 400,
-                // color: Kwhite,
                 child: Image.network(imageurl,fit: BoxFit.cover,),
               ),
               Kheight20,
